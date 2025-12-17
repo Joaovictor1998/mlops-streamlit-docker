@@ -1,0 +1,4 @@
+env_final/
+__pycache__/
+*.pyc
+.DS_Store
